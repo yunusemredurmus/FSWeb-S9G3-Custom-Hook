@@ -10,7 +10,7 @@ Bu proje, bu modülde öğrenilen kavram ve teknikleri uygulamanıza ve bunları
 
 ## Giriş
 
-Bu projede kripto para izleme uygulamasını alacak ve 2 custom hook oluşturup, birlikte çalışmalarını sağlayacaksınız, aynı zamanda kullanıcılar gece modunu açıp (dark mode) uygulamayı kullanabilecekler, uygulama kapanıp açılsa bile gece modu daha önce aktif edildiyse uygulama gece modu açık şekilde başlayacakd. 
+Bu projede kripto para izleme uygulamasını alacak ve 2 custom hook oluşturup, birlikte çalışmalarını sağlayacaksınız, aynı zamanda kullanıcılar gece modunu açıp (dark mode) uygulamayı kullanabilecekler, uygulama kapanıp açılsa bile gece modu daha önce aktif edildiyse uygulama gece modu açık şekilde başlayacak. 
 
 ***Görevlerinizi birer birer tamamladığınızdan ve ilerlemeden önce her bir görevi test ettiğinizden emin olun..***
 
@@ -28,7 +28,7 @@ Bu projede kripto para izleme uygulamasını alacak ve 2 custom hook oluşturup,
 
 #### Bir geceModuAc hooku oluşturun
 
-* [ ] `hooks.` adında bir klasör oluşturun
+* [ ] `hooks` adında bir klasör oluşturun
 * [ ] `geceModuAc.js` adında bir dosya oluşturun.
 * [ ] Sadece bir boolean(true/false) state değeri ile yüklenen bir hook oluşturun. Bu değer gece modunun açık olup olmadığını belirlemeye yarayacak.
 * [ ] Oluşturduğunuz state dilimini ve state'i düzenlemenize yarayan fonksiyonu döndürün.
@@ -38,7 +38,6 @@ Bu projede kripto para izleme uygulamasını alacak ve 2 custom hook oluşturup,
 
 * [ ] `localStorageKullan.js` adında bir dosya oluşturun.
 * [ ] Bir key value ve baslangicDegeri alan bir hook oluşturun.
-* [ ] Hooku oluşturmak için GP'den gelen kodu kullanın.
 
 #### geceModuAc çevresinde localStorageKullan 'ı kullanın
 
